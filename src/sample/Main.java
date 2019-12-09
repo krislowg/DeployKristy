@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * Author: Kristy Low
+ * Author: Kristy Low.
  */
 public class Main extends Application {
 
